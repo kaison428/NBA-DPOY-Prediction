@@ -1,5 +1,5 @@
 # NBA-DPOY-Prediction
-Predict the next NBA Defensive of the Year using Machine Learning
+Training and validating regression models based on historical data on NBA players to predict future DPOY award winners
 
 ## Medium Article
 
