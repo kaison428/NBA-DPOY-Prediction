@@ -3,10 +3,7 @@ Predict the next NBA Defensive of the Year using Machine Learning
 
 ## Medium Article
 
-We have published a Medium Article about this project. Feel free to check it out!
-
-[Medium Article] (https://medium.com/@sammy.restrepo/predicting-the-nbas-defensive-player-of-the-year-dpoy-through-machine-learning-1b44c0eab1b)
-[Samuel Restrepo](https://www.linkedin.com/in/samuel-restrepo-6a5132180/)
+We have published a [Medium Article](https://medium.com/@sammy.restrepo/predicting-the-nbas-defensive-player-of-the-year-dpoy-through-machine-learning-1b44c0eab1b/) about this project. Feel free to check it out!
 
 ## Contribution
 
